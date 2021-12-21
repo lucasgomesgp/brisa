@@ -1,0 +1,16 @@
+.dialog_404{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4rem;
+    gap: 2rem;
+}
+
+.dialog_404 .img_404{
+    max-width: 30rem;
+}
+
+.dialog_404 h2{
+    width: 50%;
+    text-align: justify;
+}
